@@ -2,24 +2,24 @@
 
 #### Contains: 
 
-##### Balanced paired-images approach implementation
--- pair_balanced_approach.py
-
-##### Interpolation implementation
--- interpolate_aug.py
-
 ##### DiffuseMix implementation
--- diffuseMixImp.py
+-- diffuseMixImp.py \\
 
 ##### Final Demo - DiffuseMix implementation
--- diffuseMixDemo.py
+-- diffuseMixDemo.py\\
+
+##### Balanced paired-images approach implementation
+-- pair_balanced_approach.py\\
+
+##### Interpolation implementation
+-- interpolate_aug.py\\
 
 ##### Dataset:
 [Experimental Dataset](https://tinyurl.com/dataimb-hernia-dataset)
 
 ##### Required packages:
 -- listed for ease of imstallation in requirements.txt\
--- for conda environment: environment.txt
+-- for conda environment: environment.yml
 
 
 ##### Resources used or cited: 
