@@ -15,5 +15,5 @@
 [Experimental Dataset](https://tinyurl.com/dataimb-hernia-dataset)
 
 ##### Required packages:
--- listed for ease of imstallation in requirements.txt
+-- listed for ease of imstallation in requirements.txt\
 -- for conda environment: environment.txt
